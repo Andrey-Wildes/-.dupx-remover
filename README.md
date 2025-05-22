@@ -1,2 +1,2 @@
-# -.dupx-remover
-Simple command to remove ".dupx" (or others) extensions.
+# Removedor de -.dupx-
+Comando Simples para remover ".dupx" (ou outras) extensões.
